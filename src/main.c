@@ -9,6 +9,7 @@ int isValidMove(int, int[9]);
 
 int main()
 {
+
   int turn = 0;
   int input = 0;
   int occupiedSpaces[9] = {0, 0, 0, 0, 0, 0, 0, 0, 0};
